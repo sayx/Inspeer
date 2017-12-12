@@ -81,6 +81,7 @@
 
 	#slider .scenes > div .wrap {
 		margin: 0 12rem;
+		min-height: 25rem;
 	}
 
 	#slider .scenes .scene .box {
