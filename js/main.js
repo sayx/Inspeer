@@ -1,3 +1,16 @@
+$.ajax({
+    url: "https://test.inspeer.io/progress",
+    dataType: "json",
+    success: function(data) {
+        $('.sum.total').text(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1.'))
+        console.log(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1.'))
+    },
+    error: function(t, e, n) {
+        console.log('Config is missing')
+    },
+    async: !1
+})
+
 var end = new Date(Date.UTC(2018, 1, 5, 14, 0));
 var _second = 1000;
 var _minute = _second * 60;
@@ -80,7 +93,6 @@ $(document).ready(function () {
             else {
                 $(this).css('opacity', '0.2');
             }
-            console.log(step)
         })
     })
 })
