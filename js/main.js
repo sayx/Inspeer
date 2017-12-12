@@ -1,5 +1,5 @@
 $.ajax({
-    url: "https://test.inspeer.io/progress",
+    url: "/progress",
     dataType: "json",
     success: function(data) {
         $('.sum.total').text(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1.'))
