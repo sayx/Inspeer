@@ -8,7 +8,7 @@ $.ajax({
     error: function(t, e, n) {
         console.log('Config is missing')
     },
-    async: !1
+    async: true
 })
 
 var end = new Date(Date.UTC(2018, 1, 5, 14, 0));
