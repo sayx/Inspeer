@@ -1,0 +1,21 @@
+<svg width="25.736289739608765" height="16.96704888343811" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class="selected"/>
+ <defs>
+  <path d="m58,2235l0,-19" id="vrooa"/>
+  <path d="m53,2229.939941l5,5.060059l5,-5.060059" id="vroob"/>
+ </defs>
+ <g style="">
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="404" width="584" y="-1" x="-1"/>
+ </g>
+ <g style="" class="currentLayer">
+  <title>Layer 1</title>
+  <g transform="rotate(-90, 13, 8.5)" id="svg_1">
+   <g id="svg_2">
+    <use id="svg_3" x="-45" y="-2217" xlink:href="#vrooa" stroke-miterlimit="50" stroke="#4c3092" fill-opacity="0" fill="#fff"/>
+   </g>
+   <g id="svg_4">
+    <use id="svg_5" x="-45" y="-2217" xlink:href="#vroob" stroke-miterlimit="50" stroke="#4c3092" fill-opacity="0" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

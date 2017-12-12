@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>lightpaper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="инспир–лендинг" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-301.000000, -163.000000)" stroke-linecap="round">
+        <g id="lightpaper" transform="translate(302.000000, 164.000000)" stroke="#AD2083" stroke-width="1.13399996">
+            <path d="M18,16 L2,16 C0.8954305,16 1.48029737e-16,15.0231667 0,13.8181818 L0,0 L16,0 L16,2.90909091" id="Shape"></path>
+            <path d="M20,2.90909091 L20,13.8181818 C20,15.0231667 19.1045695,16 18,16 C16.8954305,16 16,15.0231667 16,13.8181818 L16,2.90909091 L20,2.90909091 Z" id="Shape"></path>
+            <path d="M2.66666667,2.90909091 L13.3333333,2.90909091 L2.66666667,2.90909091 Z" id="Shape"></path>
+            <path d="M2.66666667,6.33766234 L13.3333333,6.33766234 L2.66666667,6.33766234 Z" id="Shape-Copy"></path>
+            <path d="M2.66666667,9.76623377 L7.77777767,9.76623377 L2.66666667,9.76623377 Z" id="Shape-Copy-2"></path>
+        </g>
+    </g>
+</svg>
