@@ -103,6 +103,7 @@ var userLang = navigator.language || navigator.userLanguage,
     "use strict";
 
     function t(t) {
+        e(main_lang_obj['en']),
         e(main_lang_obj[t]), n(t), $("html").attr("lang", t), "ru" == t ? ($("#player1").hide(), $("#player2").show(), $(".ico-tg").attr("href", "https://t.me/InspeerRUS")) : ($("#player2").hide(), $("#player1").show(), $(".ico-tg").attr("href", "https://t.me/Inspeer_io"))
     }
 
