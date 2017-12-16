@@ -2,8 +2,7 @@ $.ajax({
     url: "/progress",
     dataType: "json",
     success: function(data) {
-        $('.sum.total').text(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1.'))
-        console.log(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1.'))
+        $('.sum.total').text(data.tokens.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1,'))
     },
     error: function(t, e, n) {
         console.log('Config is missing')
