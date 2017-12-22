@@ -114,7 +114,8 @@ var userLang = navigator.language || navigator.userLanguage,
     function n(t) {
         $(".whitepaper-link").attr("href", s[t]), $(".lightpaper-link").attr("href", a[t]), $(".ico-fb").attr("href", l[t])
     }
-    for (var i = ["js/locale/en.json", "js/locale/es.json", "js/locale/ru.json", "js/locale/ja.json", "js/locale/ko.json", "js/locale/pt.json", "js/locale/zh_CN.json"], o = [], r = 0; r < i.length; r++) ! function(t) {
+    for (var i = ["js/locale/en.json", "js/locale/es.json", "js/locale/ru.json", "js/locale/ja.json", "js/locale/ko.json", "js/locale/pt.json", "js/locale/zh_CN.json", "js/locale/da.json", "js/locale/noN.json", "js/locale/sv.json"
+        ], o = [], r = 0; r < i.length; r++) ! function(t) {
         $.ajax({
             url: i[t],
             dataType: "json",
