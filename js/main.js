@@ -1,6 +1,6 @@
 $.ajax({
-    //url: "/progress",
-    url: "progress.json",
+    url: "/progress",
+    //url: "progress.json",
     dataType: "json",
     success: function(data) {
         console.log(data);
