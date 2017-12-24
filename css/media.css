@@ -48,8 +48,7 @@
 	}
 
 	#main .fees {
-		padding-top: 6rem;
-		max-width: 100%;
+		padding-top: 1rem;
 	}
 
 	#main .video-link {
@@ -57,6 +56,19 @@
 		bottom: 8.083rem;
 		right: 0;
 		padding: 0;
+	}
+
+
+	.fees .top {
+		padding-left: 1.3rem;
+	}
+
+	.fees .currency {
+		padding-left: 1.3rem;
+	}
+
+	.counter  .counter-header {
+		padding-left: 1.3rem;
 	}
 
 	#slider .scenes {

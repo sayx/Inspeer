@@ -325,7 +325,7 @@ h2 {
 
 			#main .fees {
 				padding-top: 1rem;
-				max-width: 19rem;
+				max-width: 100%;
 			}
 
 
@@ -333,14 +333,95 @@ h2 {
 				clear: both;
 				color: var(--main-color);
 				font-family: var(--main-font);
-				font-size: 1.083rem;
+				font-size: 0.846rem;
 				font-weight: 500;
+				text-transform: uppercase;
+				width: 34rem;
+				margin-bottom: 4rem;
 			}
 
-				.fees strong {
-					font-size: 1.667rem;
-					font-weight: 700;
+				.fees .top {
+					display: table;
+					width: 100%;
+					box-sizing: border-box;
 				}
+
+					.fees .top > div {
+						display: table-cell;
+						vertical-align: bottom;
+					}
+
+					.fees .top .total {
+						font-size: 1.167rem;
+						padding-right: 1.5rem;
+					}
+
+						.fees .top .total strong {
+							font-weight: 700;
+						}
+					
+					.fees .top .target {
+						text-align: right;
+					}
+
+						.fees .top .target  span {
+							display: block;
+							background-color: #FFF;
+						}
+
+						.fees .top .target .text {
+							opacity: 0.29;
+							font-size: 0.75rem;
+							font-weight: 500;
+						}
+
+						.fees .top .target .target-summ {
+							font-size: 0.917rem;
+							font-weight: 500;
+						}
+
+				.fees .cls {
+					width: 100%;
+					height: 0.5rem;
+					border-radius: 0.417rem;
+					background-color: #eeecf6;
+					margin: 1rem 0;
+				}
+
+					.fees .cls .fill {
+						display: block;
+						height: 0.5rem;
+						border-radius: 0.417rem;
+						background-color: var(--main-color);
+					}
+
+				.fees .currency {
+					overflow: hidden;
+				}
+
+					.fees .currency span {
+						display: inline-block;
+						padding-left: 1.4rem;
+						height: 1.167rem;
+						vertical-align: middle;
+						line-height: 1.167rem;
+						background-position: left center;
+						background-repeat: no-repeat;
+						background-size: .75rem auto;
+						margin-right: 2.2rem;
+					}
+
+					.fees .currency .USD {
+						background-image: url(../img/USD.svg);
+					}
+
+					.fees .currency .ETH {
+						background-image: url(../img/ETH.svg);
+					}
+
+					.fees .currency .BTC {
+						background-image: url(../img/BTC.svg);
+					}
 
 			#main .counter {}
 
@@ -369,6 +450,12 @@ h2 {
 /* COUNTER */
 	.counter {
 	}
+
+		.counter  .counter-header {
+			font-size: 1rem;
+			font-weight: 500;
+			color: var(--main-color);
+		}
 
 		.counter .counter-box {
 			width: 6rem;

@@ -1,15 +1,24 @@
 $.ajax({
-    url: "/progress",
+    //url: "/progress",
+    url: "progress.json",
     dataType: "json",
     success: function(data) {
-        var total = (parseInt(data.tokens * 1000) / 1000) + "";
-        $('.sum.total').text(total.replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1,'))
+        console.log(data);
+        $('.sum.total').text(toFormat(data.tokens))
+        $('.currency .USD').text(toFormat(data.payments.USD.amount))
+        $('.currency .ETH').text(toFormat(data.payments.ETH.amount))
+        $('.currency .BTC').text(toFormat(data.payments.BTC.amount))
+        $('.cls .fill').width($('.cls').width() / 100 * data.tokens / $('.cls .fill').data("cls-total") * 100)
     },
     error: function(t, e, n) {
         console.log('Config is missing')
     },
     async: true
 })
+
+function toFormat(a) {
+    return ((parseInt(a * 1000) / 1000) + "").replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1,')
+}
 
 var end = new Date(Date.UTC(2018, 1, 5, 14, 0));
 var _second = 1000;

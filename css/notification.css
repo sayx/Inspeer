@@ -1,0 +1,84 @@
+.notification { display: none; background-color: #443F56; box-shadow: 0 1.063rem 1.063rem rgba(0, 0, 0, 0.12); color: #fff; padding: 1rem; text-align: center; position: fixed; top: auto; right: 0; left: 0; bottom: 0; z-index: 60; transition: background .2s ease-in-out; }
+
+.notification:hover { background-color: #504a65; }
+
+.notification.hidden { display: none !important; opacity: 0; visibility: hidden; }
+
+@media (min-width: 992px) { .notification { border-radius: 0.5rem; text-align: left; right: auto; left: 1.5rem; bottom: 1.5rem; max-width: 14rem; width: 100%; } }
+
+.notification a { display: block; color: #fff; text-decoration: none; }
+
+.notification__close { display: block; position: relative; padding: 0; margin: -.7rem -.7rem -2px 0; width: 1.5rem; height: 1.5rem; float: right; font-size: 1.5rem; line-height: 1.5rem; text-align: center; color: #fff; background: transparent; border: 0; border-radius: 50%; cursor: pointer; z-index: 10; outline: none !important; transition: background .1s ease-in-out; }
+
+.notification__close:hover { color: #fff; background-color: #000; }
+
+.notification__close + * { clear: both; }
+
+.notification__title { display: block; color: #fff; font-size: 1rem; line-height: 1rem; font-weight: 600; margin-bottom: .5rem; }
+
+.notification__text { display: block; font-weight: 400; font-size: 1.25rem; line-height: 1.25rem; }
+
+.notification__text a { color: #fff; text-decoration: none; }
+
+.notification__part { display: table; width: 100%; text-align: center; }
+
+.notification__part__left, .notification__part__right { display: table-cell; vertical-align: middle; width: 50%; }
+
+.notification__part img { max-height: 30px; }
+
+.animation { animation-duration: 1s; animation-fill-mode: both; }
+
+@keyframes bounceInUp { 0%, 60%, 75%, 90%, to { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0;
+    transform: translate3d(0, 3000px, 0); }
+  60% { opacity: 1;
+    transform: translate3d(0, -20px, 0); }
+  75% { transform: translate3d(0, 10px, 0); }
+  90% { transform: translate3d(0, -5px, 0); }
+  to { transform: translateZ(0); } }
+
+.bounceInUp { animation-name: bounceInUp; }
+
+@keyframes bounceOutDown { 20% { transform: translate3d(0, 10px, 0); }
+  40%, 45% { opacity: 1;
+    transform: translate3d(0, -20px, 0); }
+  to { opacity: 0;
+    transform: translate3d(0, 2000px, 0); } }
+
+.bounceOutDown { animation-name: bounceOutDown; }
+
+@keyframes bounceInLeft { 0%, 60%, 75%, 90%, to { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0;
+    transform: translate3d(-3000px, 0, 0); }
+  60% { opacity: 1;
+    transform: translate3d(25px, 0, 0); }
+  75% { transform: translate3d(-10px, 0, 0); }
+  90% { transform: translate3d(5px, 0, 0); }
+  to { transform: none; } }
+
+.bounceInLeft { animation-name: bounceInLeft; }
+
+@keyframes bounceOutLeft { 20% { opacity: 1;
+    transform: translate3d(20px, 0, 0); }
+  to { opacity: 0;
+    transform: translate3d(-2000px, 0, 0); } }
+
+.bounceOutLeft { animation-name: bounceOutLeft; }
+
+@keyframes bounceInRight { 0%, 60%, 75%, 90%, to { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0;
+    transform: translate3d(3000px, 0, 0); }
+  60% { opacity: 1;
+    transform: translate3d(-25px, 0, 0); }
+  75% { transform: translate3d(10px, 0, 0); }
+  90% { transform: translate3d(-5px, 0, 0); }
+  to { transform: none; } }
+
+.bounceInRight { animation-name: bounceInRight; }
+
+@keyframes bounceOutRight { 20% { opacity: 1;
+    transform: translate3d(-20px, 0, 0); }
+  to { opacity: 0;
+    transform: translate3d(2000px, 0, 0); } }
+
+.bounceOutRight { animation-name: bounceOutRight; }
