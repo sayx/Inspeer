@@ -123,7 +123,7 @@ var userLang = navigator.language || navigator.userLanguage,
     function n(t) {
         $(".whitepaper-link").attr("href", s[t]), $(".lightpaper-link").attr("href", a[t]), $(".ico-fb").attr("href", l[t])
     }
-    for (var i = ["js/locale/en.json", "js/locale/es.json", "js/locale/ru.json", "js/locale/ja.json", "js/locale/ko.json", "js/locale/pt.json", "js/locale/zh_CN.json", "js/locale/da.json", "js/locale/no.json", "js/locale/sv.json"
+    for (var i = ["js/locale/en.json", "js/locale/es.json?v=1", "js/locale/ru.json?v=1", "js/locale/ja.json?v=1", "js/locale/ko.json?v=1", "js/locale/pt.json?v=1", "js/locale/zh_CN.json?v=1", "js/locale/da.json", "js/locale/no.json?v=1", "js/locale/sv.json?v=1"
         ], o = [], r = 0; r < i.length; r++) ! function(t) {
         $.ajax({
             url: i[t],
