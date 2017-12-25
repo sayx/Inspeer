@@ -1,4 +1,32 @@
 {
+    "buy_tokens": "Comprar tokens",
+    "and_others": "e outros",
+    "bonuses_10": "com bónus de 10% em 18 dez",
+    "total_tokens": "Total de Tokens Comprados INS",
+    "until_ends": "Até ao fim de ICO:",
+
+    "bonuses_n_text_1": "11 Dez a 18 Dez",
+    "bonuses_n_text_2": "18 Dez a 1 Jan",
+    "bonuses_n_text_3": "1 Jan a 15 Jan",
+    "structure_subtitle_2": "Bónuses",
+    "structure_subtitle_3": "Bonificación",
+    "bonuses_n_bomus": "bónus",
+
+    "bonuses_n_additional": "<strong>Além disso</strong>, quanto mais contribuir maior será o bónus que irá obter!",
+    "bonuses_n_additional_text_1": "$1.001 - $5.000",
+    "bonuses_n_additional_text_2": "$5.001 e mais",
+
+    
+    "partners_main_title": "Socios",
+    "press_main_text": "É uma oportunidade rara de a indústria de empréstimos ser agitada, já não são os bancos que monopolizam o mercado. Vai ser um jogo bem mais justo para todas as partes.",
+    
+
+    "roadmap_text_1": "<h4>Empréstimos P2P na Rússia e Estónia. Empréstimos PayDay. Emissão de cartão virtual. Empréstimos em criptomoeda como prioridade principal.</h4>\n<p><strong>Maio, 2018:</strong><br/>\nO desenvolvimento, teste e iniciação de empréstimos P2P na Rússia será criado a partir do próximo projeto desenvolvido como bases técnicas.</p>\n<ul>\n  <li>Versão web da plataforma (acc. e informações dos mutuários e credores sobre a plataforma)<\/li>\n<li>Aplicações móveis para iOS e Android<\/li>\n <li>Bot do Telegram para investidores<\/li>\n<li>Integração de interface com conta individual previamente criada<\/li>\n<\/ul>",
+    "roadmap_text_2": "<h4>CInício dos empréstimos P2P em Espanha e Letónia. Emissão de cartões plásticos com um limite de crédito para clientes habituais.</h4>\n<p>\nNovembro, 2018:\n<br>\nA realização do projeto na Espanha é baseada na experiência e realização técnica da localização do projeto na Estónia. <br><br>\nJaneiro. 2019:<br>\nAceitar e fornecer formação no sistema, emissão de cartões plásticos para mutuários atuais.</p>",
+    "roadmap_text_3": "Dimensionamento do modelo, abertura de um escritório no Reino Unido. Lançamento de um programa de reestruturação de dívida para clientes habituais. Obtenção de uma Licença EMI.\n<br><br>\nFevereiro, 2019",
+    "roadmap_text_4": "<h4>Empréstimos para pequenas e médias empresas, sistema de pagamento internacional. Capital de Risco. Crowdfunding</h4>\n<p>\nMaio, 2019:<br>\nDesenvolvimento de sistema de empréstimos para pequenas e médias empresas na Etapa 1, capacidade técnica.</p>\n<p>Julho, 2019:<br>\nLançamento da plataforma de crowdfunding e integração de novo produto no ecossistema da Inspeer para utilização de dados.</p>",
+
+
     "placeholder": "E-mail",
     "error_message": "Por favor, digite o email correto",
     "header_nav_text_1": "Sobre",
@@ -149,17 +177,6 @@
     "roadmap_main_title": "Mapa",
     "roadmap_main_text": "Dependendo dos resultados da ICO, a equipa Inspeer terá recursos suficientes para implementar:",
     "roadmap_date_1": "Fev 2018",
-    "roadmap_title_1": "$2 milhões",
-    "roadmap_text_1": "Crédito P2P na Rússia e Estónia. Crédito Salário. Emissão de cartão virtual. Crédito em criptomoeda enquanto principal prioridade.",
-    "roadmap_date_2": "Fev 2018",
-    "roadmap_title_2": "$6 milhões",
-    "roadmap_text_2": "Abrir crédito P2P na Espanha e Letónia. Emissão de cartões de plástico com um limite de crédito para clientes habituais.",
-    "roadmap_date_3": "Fev 2018",
-    "roadmap_title_3": "$12 milhões",
-    "roadmap_text_3": "Expandir o modelo, abrir um escritório no Reino Unido. Lançar um programa de reestruturação de dívida para clientes habituais. Obter uma Licença EMI.",
-    "roadmap_date_4": "Fev 2018",
-    "roadmap_title_4": "$30 milhões",
-    "roadmap_text_4": "Empréstimos para pequenas e médias empresas, sistema de pagamento transfronteiriço. Capital de Risco. Crowdfunding",
     "documents_main_title": "DOCUMENTOS",
     "documents_text_1": "Apresentação",
     "documents_text_2": "Resumo Executivo",
@@ -216,7 +233,6 @@
     "faq_text_9": "Dia 1: 15% <br> Semana 1: 10% <br> Semana 2: 5% <br> Semana 3-4: 0%",
     "header_nav_text_10": "Imprensa",
     "popup_thanks_text_2": "Junte-se ao nosso canal Telegram <br>\n <a href=\"https:\/\/t.me\/Inspeer_io\">t.me\/Inspeer_io<\/a>&nbsp;&nbsp;\n<a href=\"https:\/\/t.me\/InspeerRUS\">t.me\/InspeerRUS<\/a><br>\n e tenha as últimas novidades e ofertas especiais em primeiro lugar.",
-    "partners_main_title": "Partners",
     "advisors_person_position_7": "",
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "Inspeer pré-venda começa AGORA! Invista no seu futuro e não se esqueça dos bônus: 25% antes de 29 de novembro e 20% antes de 6 de dezembro. \n Esquerda até o final da pré-venda:",

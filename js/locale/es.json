@@ -1,4 +1,40 @@
 {
+    "buy_tokens": "Compra tokens",
+    "and_others": "y otros",
+    "bonuses_10": "con un 10 % de bonificación con vencimiento el 18 de dic.",
+    "placeholder": "E-mail",
+    "total_tokens": "total de tokens adquiridos INS",
+    "until_ends": "Hasta el fin de la ICO:",
+
+    "bonuses_n_text_1": "Del 11 de dic. al 18 de dic.",
+    "bonuses_n_text_2": "Del 18 de dic. al 2 de ene.",
+    "bonuses_n_text_3": "Del 1 de ene. al 15 de ene.",
+    "structure_subtitle_2": "Bonuses",
+    "structure_subtitle_3": "Bounties",
+    "bonuses_n_bomus": "bonuses",
+
+    "bonuses_n_additional": "<strong>¡Además</strong>, cuanto más contribuyas más alta será tu bonificación!",
+    "bonuses_n_additional_text_1": "$1.001 - $5.000",
+    "bonuses_n_additional_text_2": "$5.001 y más",
+
+    "press_main_text": "Es raro que la industria crediticia se vea sacudida; ya no son los bancos los que monopolizan el mercado. Va a ser un juego mucho más justo para todas las partes.",
+    
+    "partners_main_title": "Socios",
+
+    "roadmap_text_1": "<h4>Préstamos P2P en Rusia y Estonia. Préstamos de sumas pequeñas. Emisión de tarjeta virtual. Préstamo en criptomonedas como una prioridad principal.</h4>\n<p><strong>Mayo, 2018:</strong><br/>\nEl desarrollo, las pruebas y la iniciación de préstamos P2P en Rusia se crearán a partir del crecimiento futuro del proyecto como bases técnicas.</p>\n<ul>\n  <li>Versión web de la plataforma (cuenta de prestatarios y acreedores e información sobre la plataforma)<\/li>\n <li>Aplicaciones móviles para iOS y Android<\/li>\n  <li>Telegram bot para inversores<\/li>\n<li>Integración de la interfaz con la contabilidad única desarrollada anteriormente<\/li>\n<\/ul>",
+    "roadmap_date_2": "Feb 2018",
+    "roadmap_title_2": "$6 million",
+    "roadmap_text_2": "<h4>Creación de préstamos P2P en España y Letonia. Emisión de tarjetas de plástico con un límite de crédito para clientes habituales.</h4>\n<p>\nNoviembre, 2018:\n<br>\nLa realización del proyecto en España se basa en la experiencia y la realización técnica de la adaptación local del proyecto en Estonia.<br><br>\nEnero, 2019:<br>\nFormación del sistema de aceptación y entrega, emisión de tarjetas de plástico para los prestatarios actuales.</p>",
+    "roadmap_date_3": "Febrero, 2019:",
+    "roadmap_title_3": "$12 million",
+    "roadmap_text_3": "Escalar el modelo, abrir una oficina en el Reino Unido. Poner en marcha un programa de reestructuración de deudas para clientes habituales. Obtener una licencia EMI.\n<br><br>\nFebrero, 2019",
+    "roadmap_date_4": "Feb 2018",
+    "roadmap_title_4": "$30 million",
+    "roadmap_text_4": "<h4>Préstamos para pequeñas y medianas empresas, sistema de pago transfronterizo. Capital de riesgo. Crowdfunding</h4>\n<p>\nMayo, 2019:<br>\nDesarrollo de sistemas de préstamos para pequeñas y medianas empresas basados en el hito 1, capacidad técnica.</p>\n<p>Julio, 2019:<br>\nPuesta en macha de la plataforma de crowdfunding e integración de nuevos productos en el ecosistema de Inspeer para el uso de datos.</p>",
+
+
+
+
     "placeholder": "Email",
     "error_message": "Por favor, escribe el correo electrónico correcto",
     "header_nav_text_1": "Sobre Inspeer",
@@ -149,17 +185,6 @@
     "roadmap_main_title": "Mapa de Ruta",
     "roadmap_main_text": "Dependiendo de los resultados del ICO, el equipo de Inspeer tendrá suficientes recursos para implementar:",
     "roadmap_date_1": "Feb 2018",
-    "roadmap_title_1": "$2 millones USD",
-    "roadmap_text_1": "Préstamos P2P en Rusia y Estonia. Préstamos de día de pago. Emisión de tarjeta virtual. El préstamo en criptocorriente como una prioridad principal.",
-    "roadmap_date_2": "Feb 2018",
-    "roadmap_title_2": "$6 millones USD",
-    "roadmap_text_2": "La apertura de préstamos P2P en España y Letonia. La emisión de tarjetas de plástico con un límite de crédito para los clientes regulares.",
-    "roadmap_date_3": "Feb 2018",
-    "roadmap_title_3": "$12 millones USD",
-    "roadmap_text_3": "Escalando el modelo, abriendo una oficina en el Reino Unido. Lanzamiento de un programa para la reestructuración de la deuda para clientes regulares. Obtención de una licencia EMI.",
-    "roadmap_date_4": "Feb 2018",
-    "roadmap_title_4": "$30 millones USD",
-    "roadmap_text_4": "Préstamos para pequeñas y medianas empresas, sistema de pago transfronterizo.\nCapital de Riesgo. Financiación colectiva",
     "documents_main_title": "DOCUMENTOS",
     "documents_text_1": "Presentación",
     "documents_text_2": "Sumario",
@@ -216,7 +241,6 @@
     "faq_text_9": "Día 1: 15 % <br> Semana 1: 10 % <br> Semana 2: 5 % <br> Semanas 3-4: 0 %",
     "header_nav_text_10": "Prensa",
     "popup_thanks_text_2": "Únase a nuestro canal de Telegram <br>\n<a href=\"https:\/\/t.me\/Inspeer_io\">t.me\/Inspeer_io<\/a>&nbsp;&nbsp;\n<a href=\"https:\/\/t.me\/InspeerRUS\">t.me\/InspeerRUS<\/a><br>\n y obtenga las últimas noticias y ofertas especiales primero.",
-    "partners_main_title": "Partners",
     "advisors_person_position_7": "",
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "¡La preventa de inspectores comienza AHORA! Invierte en tu futuro y no te olvides de las bonificaciones: 25% antes del 29 de noviembre y 20% antes del 6 de diciembre. \n Izquierda hasta el final de la preventa:",

@@ -351,9 +351,10 @@ h2 {
 						vertical-align: bottom;
 					}
 
-					.fees .top .total {
+					.fees .top > .total {
 						font-size: 1.167rem;
 						padding-right: 1.5rem;
+						line-height: 1.35;
 					}
 
 						.fees .top .total strong {

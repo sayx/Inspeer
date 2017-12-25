@@ -1,4 +1,31 @@
 {
+
+    "buy_tokens": "购买代币",
+    "and_others": "和其他",
+    "bonuses_10": "在十二月18号前有10%的分红",
+    "total_tokens": "INSPEER TOKENS SOLD",
+    "until_ends": "在 ICO 结束前,完全用代币买入:",
+    "structure_subtitle_2": "奖励",
+    "structure_subtitle_3": "奖励",
+    "bonuses_n_text_1": "12 月 11 日到 12 月 18 日",
+    "bonuses_n_text_2": "12 月 18 日到 1 月 1 日",
+    "bonuses_n_text_3": "1 月 1 日到 1 月 15 日",
+    "bonuses_n_bomus": "奖励",
+
+    "bonuses_n_additional": "此外,您贡献得越多,您将获得的奖励就越高！",
+    "bonuses_n_additional_text_2": "$5.001 以上",
+
+
+    "partners_main_title": "合伙人",
+    "press_main_text": "贷款行业正在动摇,不再是银行在控制市场,这种情况的几率是非常小的。对各方来讲,这都将是越来越公平的游戏。",
+
+
+    "roadmap_text_1": "<h4>俄罗斯和爱沙尼亚的P2P借贷。发薪日贷款。虚拟卡的发行。以加密货币贷款作为主要优先事项。</h4>\n<p><strong>2018 年 5 月:</strong><br/>\n俄罗斯的开发,测试和P2P贷款启动将以技术基础的进一步发展为基础。</p>\n<ul>\n  <li>平台的网络版本(借方和债权人的账户。以及关于平台的信息)<\/li>\n  <li>iOS 和 Android 手机应用<\/li>\n  <li>投资者的电报机器人   <\/li>\n<li>前端部分与先期发展的单账户的整合<\/li>\n<\/ul>",
+    "roadmap_text_2": "<h4>在西班牙和拉脱维亚开放P2P借贷。为普通客户开立塑料卡的信用额度</h4>\n<p>\n2018 年 11 月:\n<br>\n西班牙的项目实施基于爱沙尼亚项目本地化的经验和技术实现。<br><br>\n2019 年 1 月:<br>\n接受和交付系统的形成,塑料卡发放给当前的借款人。</p>",
+    "roadmap_text_3": "扩大模式,在英国开设办事处。为普通客户启动债务重组计划。获得EMI许可证。\n<br><br>\n2019 年 2 月",
+    "roadmap_text_4": "<h4>中小企业贷款,跨境支付系统。风险资金。集资。</h4>\n<p>\n2019 年 5 月:<br>\n基于里程碑1的中小企业贷款系统开发,技术能力。</p>\n<p>2019 年 7 月:<br>\n推出众筹平台,将新产品整合到Inspeer的生态系统中进行数据使用。</p>",
+
+
     "placeholder": "电子邮箱",
     "error_message": "请输入正确的邮箱",
     "header_nav_text_1": "关于",
@@ -148,18 +175,7 @@
     "bounties_subtitle_5": "赞同",
     "roadmap_main_title": "路线图",
     "roadmap_main_text": "根据首次公开募币结果,Inspeer 团队将会有足够的资源实现:",
-    "roadmap_date_1": "2018 年 2 月",
-    "roadmap_title_1": "2 百万美元",
-    "roadmap_text_1": "在俄罗斯和爱沙尼亚的 P2P 贷款服务。发薪日贷款。发行虚拟卡。优先提供加密数字货币的贷款服务。",
-    "roadmap_date_2": "2018 年 2 月",
-    "roadmap_title_2": "6 百万美元",
-    "roadmap_text_2": "在西班牙和拉脱维亚开放提供 P2P 贷款服务。面向老顾客发行带信贷限额的信用卡。",
-    "roadmap_date_3": "2018 年 2 月",
-    "roadmap_title_3": "1200 万美元",
-    "roadmap_text_3": "扩大模型规模,在英国设立办公室。启动面向老顾客的债务调整计划。获得电子货币机构许可证。",
-    "roadmap_date_4": "2018 年 2 月",
-    "roadmap_title_4": "3 千万美元",
-    "roadmap_text_4": "面向中小型企业的贷款,跨境支付系统。风险投资。众筹",
+
     "documents_main_title": "文档",
     "documents_text_1": "融资演讲稿",
     "documents_text_2": "执行摘要",
@@ -216,7 +232,6 @@
     "faq_text_9": "第 1 天:15% <br>第 1 周:10%<br>第 2 周:5%<br>第3-4 周:0%",
     "header_nav_text_10": "出版社",
     "popup_thanks_text_2": "加入我们的电报频道<br>\n<a href=\"https:\/\/t.me\/Inspeer_io\">t.me\/Inspeer_io<\/a>&nbsp;&nbsp;\n<a href=\"https:\/\/t.me\/InspeerRUS\">t.me\/InspeerRUS<\/a><br>\n并获得最新消息和特别优惠。",
-    "partners_main_title": "Partners",
     "advisors_person_position_7": "",
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "Inspeer预售从现在开始！投资你的未来，不要忘记奖金：11月29日前的25％，12月6日前的20％。 \n直到预售结束：",
