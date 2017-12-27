@@ -177,16 +177,16 @@ h2 {
 
 			nav .lang {
 				margin-left: 1rem;
-				padding-top: .83rem;
+				padding-top: .1rem;
 			}
 
 				nav .lang > div {
 					position: relative;
 					z-index: 9999;
-					padding: 0 0 0 .5rem;
+					padding: .2rem .5rem .2rem .5rem;
 					width: 2.5rem;
-					font-size: 0.917rem;
-					height: 1.583rem;
+					font-size: 1rem;
+					height: 1.7rem;
 					overflow: hidden;
 					background: #f6f4f9;
 					border-radius: 0.25rem;
