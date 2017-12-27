@@ -3,7 +3,6 @@ function floatNotify(btn, idStart, offsetStart, idEnd, offsetEnd) {
     var startOffsetTop = Math.round($(idStart).offset().top);
 
     // if only offset start
-    console.log('windowPos:' + windowPos, 'Offset.Top:', startOffsetTop, 'offset summary:' + Math.round(startOffsetTop - offsetStart), 'offset size: ' + offsetStart);
     if (windowPos > Math.round(startOffsetTop - offsetStart)) {
         $(btn).show();
     } else {

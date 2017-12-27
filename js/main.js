@@ -108,8 +108,11 @@ $(document).ready(function () {
 
 var userLang = navigator.language || navigator.userLanguage,
     main_lang_obj = {};
+
 ! function() {
     "use strict";
+
+    t(userLang.substr(0, 2));
 
     function t(t) {
         e(main_lang_obj['en']),
@@ -123,7 +126,7 @@ var userLang = navigator.language || navigator.userLanguage,
     function n(t) {
         $(".whitepaper-link").attr("href", s[t]), $(".lightpaper-link").attr("href", a[t]), $(".ico-fb").attr("href", l[t])
     }
-    for (var i = ["js/locale/en.json", "js/locale/es.json?v=1", "js/locale/ru.json?v=1", "js/locale/ja.json?v=1", "js/locale/ko.json?v=1", "js/locale/pt.json?v=1", "js/locale/zh_CN.json?v=1", "js/locale/da.json", "js/locale/no.json?v=1", "js/locale/sv.json?v=1"
+    for (var i = ["js/locale/en.json?v=3", "js/locale/es.json?v=3", "js/locale/ru.json?v=3", "js/locale/ja.json?v=3", "js/locale/ko.json?v=3", "js/locale/pt.json?v=3", "js/locale/zh_CN.json?v=3", "js/locale/da.json?v=3", "js/locale/no.json?v=3", "js/locale/sv.json?v=3"
         ], o = [], r = 0; r < i.length; r++) ! function(t) {
         $.ajax({
             url: i[t],
@@ -423,3 +426,14 @@ function() {
         }, o
     }()
 }.call(this);
+
+function getParameter(parameterName) {
+    var result = null,
+        tmp = [];
+    var items = location.search.substr(1).split("&");
+    for (var index = 0; index < items.length; index++) {
+        tmp = items[index].split("=");
+        if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+    }
+    return result;
+}
