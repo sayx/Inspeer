@@ -106,7 +106,7 @@ $(document).ready(function () {
     })
 })
 
-var userLang = navigator.language || navigator.userLanguage,
+var userLang = getURLLang() || navigator.language || navigator.userLanguage,
     main_lang_obj = {};
 
 ! function() {
@@ -426,6 +426,11 @@ function() {
         }, o
     }()
 }.call(this);
+
+function getURLLang() {
+    alert(getParameter('lang'))
+    return getParameter('lang');
+}
 
 function getParameter(parameterName) {
     var result = null,
