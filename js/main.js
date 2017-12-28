@@ -112,8 +112,6 @@ var userLang = getURLLang() || navigator.language || navigator.userLanguage,
 ! function() {
     "use strict";
 
-    t(userLang.substr(0, 2));
-
     function t(t) {
         e(main_lang_obj['en']),
         e(main_lang_obj[t]), n(t), $("html").attr("lang", t), "ru" == t ? ($("#player1").hide(), $("#player2").show(), $(".ico-tg").attr("href", "https://t.me/InspeerRUS")) : ($("#player2").hide(), $("#player1").show(), $(".ico-tg").attr("href", "https://t.me/Inspeer_io"))
@@ -203,6 +201,10 @@ var userLang = getURLLang() || navigator.language || navigator.userLanguage,
         }
         e || t("en")
     }()
+
+    ! function () {
+        t(userLang.substr(0, 2)), void $(".lang-list [data-lang=" + userLang.substr(0, 2) + "]").click();
+    }();
 }(),
 function(t) {
     "use strict";
@@ -428,7 +430,6 @@ function() {
 }.call(this);
 
 function getURLLang() {
-    alert(getParameter('lang'))
     return getParameter('lang');
 }
 
