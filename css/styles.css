@@ -9,7 +9,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	font-family: var(--main-font);
-	font-size: 10px;
+	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.58;
 }
@@ -29,13 +29,13 @@ a:vizited {}
 }
 
 h2 {
-	max-width: 20rem;
-	height: 5rem;
+	max-width: 14rem;
+	height: 3.5rem;
 	color: var(--main-color);
-	font-size: 2.5rem;
+	font-size: 2rem;
 	font-weight: 700;
-	line-height: 2.5rem;
-	padding-left: 2.4rem;
+	line-height: 2rem;
+	padding-left: 2rem;
 }
 
 .wrap {
@@ -48,11 +48,11 @@ h2 {
 		background: var(--main-color);
 		color: #FFF;
 		font-family: var(--main-font);
-		font-size: 1.167rem;
+		font-size: 1rem;
 		font-weight: 700;
-		padding: 0 2rem;
-		height: 3.417rem;
-		line-height: 3.417rem;
+		padding: 0 1.5rem;
+		height: 2.7rem;
+		line-height: 2.7rem;
 		border: 0.083rem solid var(--main-color);
 		border-radius: 0.25rem;
 		text-decoration: none;
@@ -226,24 +226,24 @@ h2 {
 
 		#main .wrap {
 			position: relative;
-			margin-top: 10rem;
+			margin-top: 7rem;
 			padding: 1.5rem 0;
 		}
 
 		#main .box {
-			max-width: 40rem;
+			max-width: 30rem;
 		}
 
 			#main .links a,
 			a.pap {
 				display: inline-block;
 				color: var(--light-color);
-				font-size: 1.167rem;
+				font-size: 1rem;
 				font-weight: 500;
 				position: relative;
-				margin: 0 2.8rem 0 3.8rem;
+				margin: 0 2rem;
 				text-decoration: none;
-				line-height: 1.2;
+				line-height: 1;
 				vertical-align: bottom;
 				border-bottom: dotted 1px var(--light-color);
 			}
@@ -253,10 +253,10 @@ h2 {
 			a.pap:before {
 				content: "";
 				position: absolute;
-				left: -2.8rem;
+				left: -2rem;
 				top: -.25rem;
-				width: 2.5rem;
-				height: 1.583rem;
+				width: 1.8rem;
+				height: 1.2rem;
 				display: inline-block;
 				background: url(../img/paper.svg) no-repeat center center /contain;
 			}
@@ -266,11 +266,11 @@ h2 {
 			}
 
 			#main h1 {
-				max-width: 37.583rem;
+				max-width: 30rem;
 				color: var(--main-color);
-				font-size: 2.5rem;
+				font-size: 1.7rem;
 				font-weight: 700;
-				margin: 2.4rem 0 4rem;
+				margin: 2rem 0 3rem;
 			}
 
 			.cta {}
@@ -285,17 +285,17 @@ h2 {
 				}
 
 					.cta .button {
-						box-shadow: 0 1.167rem 3.167rem rgba(76, 48, 146, 0.3);
-						font-size: 1.25rem;
-						height: 3.75rem;
-						line-height: 3.75rem;
+						box-shadow: 0 1rem 2.7rem rgba(76, 48, 146, 0.3);
+						font-size: 1rem;
+						height: 3rem;
+						line-height: 3rem;
 					}
 					#main .cta .button {
-						font-size: 1.417rem;
+						font-size: 1.2rem;
 						font-weight: 700;
 						padding: 0 2.6rem;
-						height: 4.167rem;
-						line-height: 4.167rem;
+						height: 3.7rem;
+						line-height: 3.7rem;
 						border: 0.083rem solid var(--main-color);
 						border-radius: 0.25rem;
 					}
