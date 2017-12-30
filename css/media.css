@@ -1,7 +1,271 @@
 @media all and (min-width: 800px) {
 	html, body {
-		font-size: 11px;
+		font-size: 15px;
 	}
+
+}
+
+@media all and (min-width: 700) {
+	
+h2 {
+	max-width: 20rem;
+	height: 5rem;
+	font-size: 2.5rem;
+	line-height: 2.5rem;
+	padding-left: 2.4rem;
+}
+
+	button, .button {
+		font-size: 1.167rem;
+		padding: 0 2rem;
+		height: 3.417rem;
+		line-height: 3.417rem;
+		border: 0.083rem solid var(--main-color);
+		border-radius: 0.25rem;
+	}
+
+/* INPUT */
+	input {
+		color: var(--main-color);
+		font-family: var(--main-font);
+		font-size: 16px;
+		font-weight: 500;
+		width: 16.417rem;
+		padding: .91rem .91rem 1.2rem;
+		border-radius: 0.25rem;
+		border: 0.083rem solid var(--main-color);
+	}
+	#main .wrap {
+		margin-top: 10rem;
+		padding: 1.5rem 0;
+	}
+		#main .box {
+			max-width: 40rem;
+		}
+
+			#main .links a,
+			a.pap {
+				font-size: 1.167rem;
+				margin: 0 2.8rem 0 3.8rem;
+				line-height: 1.2;
+			}
+			#main .links a:before,
+			a.pap:before {
+				left: -2.8rem;
+				top: -.25rem;
+				width: 2.5rem;
+				height: 1.583rem;
+			}
+
+			#main h1 {
+				max-width: 37.583rem;
+				font-size: 2.5rem;
+				margin: 2.4rem 0 4rem;
+			}
+
+					.cta .button {
+						box-shadow: 0 1.167rem 3.167rem rgba(76, 48, 146, 0.3);
+						font-size: 1.25rem;
+						height: 3.75rem;
+						line-height: 3.75rem;
+					}
+					#main .cta .button {
+						font-size: 1.417rem;
+						padding: 0 2.6rem;
+						height: 4.167rem;
+						line-height: 4.167rem;
+						border: 0.083rem solid var(--main-color);
+						border-radius: 0.25rem;
+					}
+
+					.cta span {
+						padding: 0.75rem 0 0 1.5rem;
+						width: 8.25rem;
+						font-size: 1rem;
+					}
+
+					.cta .about {
+						padding-top: 1rem;
+						font-size: 0.917rem;
+					}
+
+						.cta .about img {
+							margin-right: .5rem;
+						}
+
+			.fees {
+				clear: both;
+				color: var(--main-color);
+				font-family: var(--main-font);
+				font-size: 0.846rem;
+				font-weight: 500;
+				text-transform: uppercase;
+				width: 34rem;
+				margin-bottom: 4rem;
+			}
+
+				.fees .top {
+					width: 100%;
+				}
+
+					.fees .top > .total {
+						font-size: 1.167rem;
+						padding-right: 1.5rem;
+						line-height: 1.35;
+					}
+
+						.fees .top .target .text {
+							font-size: 0.75rem;
+						}
+
+						.fees .top .target .target-summ {
+							font-size: 0.917rem;
+						}
+
+				.fees .cls {
+					width: 100%;
+					height: 0.5rem;
+					border-radius: 0.417rem;
+					margin: 1rem 0;
+				}
+
+					.fees .cls .fill {
+						height: 0.5rem;
+						border-radius: 0.417rem;
+					}
+
+					.fees .currency span {
+						padding-left: 1.4rem;
+						height: 1.167rem;
+						line-height: 1.167rem;
+						background-size: .75rem auto;
+						margin-right: 2.2rem;
+					}
+
+
+
+	.counter {
+	}
+
+		.counter  .counter-header {
+			font-size: 1rem;
+		}
+
+		.counter .counter-box {
+			width: 6rem;
+			padding-top: 2.5rem;
+		}
+
+			.counter .counter-box .counter-digit {
+				font-size: 3rem;
+			}
+
+			.counter .counter-box .counter-name {
+				font-size: 1.167rem;
+			}
+
+
+					#details .diagrams ul li .line .colb {
+						width: 24.5rem;
+						height: 1.167rem;
+						margin: .5rem 0;
+						border-radius: 0.833rem;
+					}
+
+/* TEAM */
+	#team {}
+
+
+		#team h2 {
+			margin: 5rem 0 1rem;
+		}
+
+		#team ul {
+			margin: 3rem 0;
+			padding: 0;
+			display: table;
+			width: 100%;
+		}
+
+			#team li > div {
+				padding: 2.917rem 0 0 4.083rem;
+				margin: 1rem;
+			}
+
+				#team ul li .box {
+					width: 20rem;
+					height: 20rem;
+				}
+
+					#team ul li .pic {
+						height: 14.75rem;
+						width: 14.75rem;
+						box-shadow: 0 1.2rem 2rem 0 #B5B0C2;
+					}
+
+						#team ul li .pic img {
+							height: 15rem;
+							width: 15rem;
+						}
+
+					#team ul li .linked {
+						padding: 1.5rem 0 0 12.5rem;
+					}
+
+						#team .linked a {
+							width: 5.25rem;
+							height: 2rem;
+						}
+
+					#team ul li .bottom {
+						padding-top: 9rem;
+						padding-left: 1.75rem;
+					}
+
+						#team ul li .name {
+							font-size: 1.333rem;
+						}
+
+						#team ul li .who {
+							font-size: 1rem;
+							line-height: 1.898rem;
+						}
+
+						#team ul li .about {
+							padding-top: .75rem;
+						}
+
+							#team ul li .about a {
+								font-size: 0.833rem;
+								line-height: 1.726rem;
+							}
+
+							#team ul li .about a:after {
+								width: 1.75rem;
+								height: 1.083rem;
+							}
+
+
+							#team ul li .about a:hover {
+								padding-right: .5rem;
+							}
+
+
+					#team ul li.ascrou .t-text {
+						color: var(--main-color);
+						font-family: var(--main-font);
+						font-size: 1.667rem;
+						font-weight: 700;
+						position: absolute;
+						right: 1.5rem;
+						top: 0;
+					}
+
+					#team ul li.ascrou .pic {
+						box-shadow: 0 1.2rem 2rem rgba(54,33,104,0.41)
+					}
+
+
 }
 
 @media all and  (min-width: 1400px) {

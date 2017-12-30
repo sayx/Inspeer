@@ -69,7 +69,7 @@ h2 {
 		font-family: var(--main-font);
 		font-size: 16px;
 		font-weight: 500;
-		width: 16.417rem;
+		width: 14.417rem;
 		padding: .91rem .91rem 1.2rem;
 		border-radius: 0.25rem;
 		border: 0.083rem solid var(--main-color);
@@ -353,7 +353,6 @@ h2 {
 
 					.fees .top > .total {
 						font-size: 1.167rem;
-						padding-right: 1.5rem;
 						line-height: 1.35;
 					}
 
@@ -459,15 +458,15 @@ h2 {
 		}
 
 		.counter .counter-box {
-			width: 6rem;
-			padding-top: 2.5rem;
+			width: 5rem;
+			padding-top: 2rem;
 			position: relative;
 			float: left;
 		}
 
 			.counter .counter-box .counter-digit {
 				color: var(--main-color);
-				font-size: 3rem;
+				font-size: 2.4rem;
 				font-weight: 700;
 				line-height: 1;
 				position: relative;
@@ -475,7 +474,7 @@ h2 {
 
 			.counter .counter-box .counter-name {
 				color: var(--main-color);
-				font-size: 1.167rem;
+				font-size: 1rem;
 				font-weight: 700;
 				position: relative;
 			}
@@ -747,7 +746,6 @@ h2 {
 				}
 
 					#details .diagrams ul li .line .colb {
-						width: 24.5rem;
 						height: 1.167rem;
 						margin: .5rem 0;
 						border-radius: 0.833rem;
@@ -875,14 +873,15 @@ h2 {
 			#team li > div {
 				text-align: left;
 				position: relative;
-				padding: 2.917rem 0 0 4.083rem;
-				margin: 1rem;
+				padding: 2rem 0 0 3rem;
+				margin: .8rem 0;
 				display: inline-block;
 			}
 
 				#team ul li .box {
-					width: 20rem;
-					height: 20rem;
+					width: 18rem;
+					height: 18rem;
+					max-width: 90%;
 					color: var(--main-color);
 					background-color: #f9f8fb;
 				}
@@ -891,18 +890,18 @@ h2 {
 						position: absolute;
 						top: 0;
 						left: 0;
-						height: 14.75rem;
-						width: 14.75rem;
+						height: 10rem;
+						width: 10rem;
 						box-shadow: 0 1.2rem 2rem 0 #B5B0C2;
 					}
 
 						#team ul li .pic img {
-							height: 15rem;
-							width: 15rem;
+							height: 10rem;
+							width: 10rem;
 						}
 
 					#team ul li .linked {
-						padding: 1.5rem 0 0 12.5rem;
+						padding: 1rem 0 0 10rem;
 					}
 
 						#team .linked a {
@@ -913,7 +912,7 @@ h2 {
 						}
 
 					#team ul li .bottom {
-						padding-top: 9rem;
+						padding-top: 7rem;
 						padding-left: 1.75rem;
 					}
 
