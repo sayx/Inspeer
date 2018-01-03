@@ -124,7 +124,7 @@ var userLang = getURLLang() || navigator.language || navigator.userLanguage,
     function n(t) {
         $(".whitepaper-link").attr("href", s[t]), $(".lightpaper-link").attr("href", a[t]), $(".ico-fb").attr("href", l[t])
     }
-    for (var i = ["js/locale/en.json?v=3", "js/locale/es.json?v=3", "js/locale/ru.json?v=3", "js/locale/ja.json?v=3", "js/locale/ko.json?v=3", "js/locale/pt.json?v=3", "js/locale/zh_CN.json?v=3", "js/locale/da.json?v=3", "js/locale/no.json?v=3", "js/locale/sv.json?v=3"
+    for (var i = ["js/locale/en.json?v=5", "js/locale/es.json?v=5", "js/locale/ru.json?v=5", "js/locale/ja.json?v=5", "js/locale/ko.json?v=5", "js/locale/pt.json?v=5", "js/locale/zh_CN.json?v=5", "js/locale/da.json?v=5", "js/locale/no.json?v=5", "js/locale/sv.json?v=5"
         ], o = [], r = 0; r < i.length; r++) ! function(t) {
         $.ajax({
             url: i[t],
