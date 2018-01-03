@@ -245,5 +245,69 @@
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "¡La preventa de inspectores comienza AHORA! Invierte en tu futuro y no te olvides de las bonificaciones: 25% antes del 29 de noviembre y 20% antes del 6 de diciembre. \n Izquierda hasta el final de la preventa:",
     "advisors_person_name_8": "Andrii Zamovsky",
-    "advisors_person_position_8": ""
+    "advisors_person_position_8": "",
+    "header_nav_text_11": "Producto",
+
+    "time_year_1": "Primavera",
+    "time_year_2": "Verano",
+    "time_year_3": "Otoño",
+    "time_year_4": "Invierno",
+
+    "month_1":  "Enero",
+    "month_2":  "Febrero",
+    "month_3":  "Marzo",
+    "month_4":  "Abril",
+    "month_5":  "Mayo",
+    "month_6":  "Junio",
+    "month_7":  "Julio",
+    "month_8":  "Agosto",
+    "month_9":  "Septiembre",
+    "month_10": "Octubre",
+    "month_11": "Noviembre",
+    "month_12": "Diciembre",
+
+    "timeline_1_title": "Se decide adentrarse en el mercado microfinanciero.",
+    "timeline_1_text": "Análisis de mercado y creación de un equipo de trabajo. Se trabaja en la parte legal del proyecto.",
+
+    "timeline_2_title": "La compañía comienza a formar parte del Registro de Organizaciones de Microfinanzas del Banco Central de Rusia.",
+    "timeline_2_text": "",
+
+    "timeline_3_title": "La oficina central de lightfin.ru comienza su desarrollo.",
+    "timeline_3_text": "",
+
+    "timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+    "timeline_4_text": "Integración de la oficina principal y la oficina interna. Lightfin.ru se lanza en modo prueba.",
+
+    "timeline_5_title": "Se lanzan las aplicaciones para iOS y Android.",
+    "timeline_5_text": "",
+
+    "timeline_6_title": "Se relanza el mecanismo de crédito teniendo en cuenta los datos recopilados.",
+    "timeline_6_text": "A medida que crece el número de solicitudes de préstamos, la compañía alcanza un nuevo hito al prestar <strong>1 000 000 $</strong> al mes de forma automática.",
+
+    "timeline_7_title": "Pasar a los préstamos P2P se considera",
+    "timeline_7_text": "el movimiento más apropiado y sólido para crecer como marca.",
+
+    "timeline_8_title": "Se analiza el mercado P2P mundial. Se decide empezar a prepararse para una ICO (Venta inicial de monedas).",
+    "timeline_8_text": "Se empieza a desarrollar un software para trabajar en el mercado P2P. Selección de los socios y proveedores de datos.",
+
+    "timeline_9_title": "Primera conferencia en San Petesburgo.",
+    "timeline_9_text": "",
+
+    "timeline_10_title": "la compañía se une a ICOPromo y comienza a trabajar con AmbiSafe.",
+    "timeline_10_text": "",
+
+    "timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+    "timeline_11_text": "Se lanza la primera versión de inspeer.io y se prepara la identidad corporativa de la empresa.",
+
+    "timeline_12_title": "lanzan los tokens de INSP.",
+    "timeline_12_text": "",
+
+    "timeline_13_title": "inspeer.io –",
+    "timeline_13_text": "Se une al equipo de participantes de la conferencia 2017 Blockchain.Life que tiene lugar en San Petesburgo.",
+
+    "timeline_14_title": "Desarrollo",
+    "timeline_14_text": "Se desarrollan nuevos conceptos para la próxima interfaz de servicio. Se desarrolla un bot de Telegram para inversores.",
+
+    "timeline_15_title": "El proyecto comienza una preventa y alcanza los 430 000 $.",
+    "timeline_15_text": ""
 }

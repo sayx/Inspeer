@@ -45,5 +45,69 @@
 	"roadmap_text_2": "<h4>Öppnande av person-till-person-lån i Spanien och Lettland. Utgivning av plastkort med en kreditgräns för återkommande kunder. </h4>\n<p>\nNovember 2018:\n<br>\nProjektets förverkligande i Spanien baseras på erfarenhet och tekniskt förverkligande av projektets lokalisering i Estland. <br><br>\nJanuari 2019:<br>\nUtformning av mottagnings- och leveranssystem, plastkort ges ut till aktuella låntagare.</p>",
 	"roadmap_text_3": "Modellen skalas upp, kontor öppnas i Storbritannien. Ett program för rekonstruktion av lån lanseras för återkommande kunder. EMI-licens erhålls. \n<br><br>\nFebruari 2019",
 	"roadmap_text_4": "<h4>Lån till små och medelstora företag, gränsöverskridande betalningssystem. Riskkapital. Gräsrotsfinansiering</h4>\n<p>\nMaj 2019:<br>\nUtveckling av lånesystem för små och medelstora företag baserat på milstolpe 1, teknisk kapacitet. </p>\n<p>Juli 2019:<br>\nPlattformen för gräsrotsfinansiering lanseras och nya produkten integreras i Inspeers ekosystem för dataanvändning. </p>",
-	"partners_main_title": "Partners"
+	"partners_main_title": "Partners",
+	"header_nav_text_11": "Produkt",
+
+	"time_year_1": "Spring",
+	"time_year_2": "Sommar",
+	"time_year_3": "Höst",
+	"time_year_4": "Winter",
+
+	"month_1":  "Januari",
+	"month_2":  "Februari",
+	"month_3":  "Mars",
+	"month_4":  "April",
+	"month_5":  "May",
+	"month_6":  "June",
+	"month_7":  "Juli",
+	"month_8":  "August",
+	"month_9":  "September",
+	"month_10": "Oktober",
+	"month_11": "November",
+	"month_12": "December",
+
+	"timeline_1_title": "Beslut fattas om att ge sig in på marknaden för mikrolån.",
+	"timeline_1_text": "Analysera marknaden och sätta samman ett team. Arbeta på projektets juridiska delar ",
+
+	"timeline_2_title": "Bolaget förs in i den ryska centralbankens register över mikrofinansorganisationer",
+	"timeline_2_text": "",
+
+	"timeline_3_title": "Ansiktet utåt på lightfin.ru börjar utvecklas",
+	"timeline_3_text": "",
+
+	"timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+	"timeline_4_text": "Projektets kontor och ansikte utåt integreras. lightfin.ru lanseras på prov. ",
+
+	"timeline_5_title": "Appar för Android och iOS lanseras",
+	"timeline_5_text": "",
+
+	"timeline_6_title": "Kreditmekanismen lanseras på nytt med insamlade data inarbetade.",
+	"timeline_6_text": "Med ökat antal låneansökningar når företaget en ny milstolpe när <strong>1 000 000 RUB</strong> i månaden lånas ut i en automatiserad process. ",
+
+	"timeline_7_title": "Person-till-person-lån",
+	"timeline_7_text": "ses som det mest lämpliga och breda att satsa på för vidare utveckling.",
+
+	"timeline_8_title": "Den globala marknaden för person-till-person-lån analyseras. Beslut fattas om att förbereda sig för ICO.",
+	"timeline_8_text": "Mjukvaruutveckling för att verka på marknaden för person-till-person-lån förbereds. Val av partners och dataleverantörer. ",
+
+	"timeline_9_title": "Den första Sankt Petersburg-konferensen",
+	"timeline_9_text": "",
+
+	"timeline_10_title": "Företaget introduceras på ICOPromo och börjar arbeta med AmbiSafe.",
+	"timeline_10_text": "",
+
+	"timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+	"timeline_11_text": "Den första version av inspeer.io lanseras och företagets identitet arbetas fram.",
+
+	"timeline_12_title": "INSP-tokens lanseras.",
+	"timeline_12_text": "",
+
+	"timeline_13_title": "inspeer.io",
+	"timeline_13_text": "blir en av flera partners till 2017 års Blockchain.Life-konferens i Sankt Petersburg.",
+
+	"timeline_14_title": "Utformning",
+	"timeline_14_text": "Koncept för den kommande tjänstens gränssnitt tas fram. En telegrambot utvecklas för investerare.",
+
+	"timeline_15_title": "Projektet inleder försäljning på prov, får in 430 000 USD. ",
+	"timeline_15_text": ""
 }

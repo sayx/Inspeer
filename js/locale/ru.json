@@ -235,5 +235,69 @@
     "top_sub_text": "Inspeer pre-sale начинается прямо сейчас! Инвестируйте в свое будущее и не забудьте про бонусы: 25% до 29 ноября и 20% до 6 Декабря.\nОсталось до конца pre-sale:",
     "advisors_person_name_8": "Andrii Zamovsky",
     "advisors_person_position_8": "",
-    "footer_dgtlppl": "Сайт создали <strong><a href=\"https:\/\/t.me/dgtlppl\">Цифровые люди</a></strong>"
+    "footer_dgtlppl": "Сайт создали <strong><a href=\"https:\/\/t.me/dgtlppl\">Цифровые люди</a></strong>",
+    "header_nav_text_11": "Продукт",
+
+    "time_year_1": "Весна",
+    "time_year_2": "Лето",
+    "time_year_3": "Осень",
+    "time_year_4": "Зима",
+
+    "month_1":  "Январь",
+    "month_2":  "Февраль",
+    "month_3":  "Март",
+    "month_4":  "Апрель",
+    "month_5":  "Май",
+    "month_6":  "Июнь",
+    "month_7":  "Июль",
+    "month_8":  "Август",
+    "month_9":  "Сентябрь",
+    "month_10": "Октябрь",
+    "month_11": "Ноябрь",
+    "month_12": "Декабрь",
+
+    "timeline_1_title": "Решение о выходе на микрофинансовый рынок.",
+    "timeline_1_text": "Анализ рынка, формирование команды. Подготовка юридической части проекта.",
+
+    "timeline_2_title": "Вступление в реестре ЦБ <br>РФ в качестве МФО.",
+    "timeline_2_text": "",
+
+    "timeline_3_title": "Начало разработки <br>фронтофиса.",
+    "timeline_3_text": "",
+
+    "timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+    "timeline_4_text": "Интеграция фронтофиса и бэкофиса проекта. Тестовый запуск.",
+
+    "timeline_5_title": "Запуск мобильных <br>приложений для <br>IOS и Android",
+    "timeline_5_text": "",
+
+    "timeline_6_title": "Перезапуск кредитной <br>машины на основе <br>полученных данных.",
+    "timeline_6_text": "Наращивание оборотов кредитных заявок. <br>Выход на <strong>1 000 000 ₽</strong> в месяц при автоматической выдаче. Выбор партнеров и поставщиков данных.",
+
+    "timeline_7_title": "Проработка концепции развития в сторону P2P кредитования.",
+    "timeline_7_text": "Как наиболее приемлемый и масштабный сценарий.",
+
+    "timeline_8_title": "Анализ рынка P2P в мире. <br>Решение о подготовке к ICO. ",
+    "timeline_8_text": "Старт подготовки программного <br>обеспечения для работы на рынке P2P. <br>Выбор партнеров и поставщиков данных.",
+
+    "timeline_9_title": "Первая конференция в <br>Санкт - Петербурге",
+    "timeline_9_text": "",
+
+    "timeline_10_title": "Знакомство с ICOPromo <br>и начало сотрудничества с <br>AmbiSafe",
+    "timeline_10_text": "",
+
+    "timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+    "timeline_11_text": "Запуск первой версии сайта inspeer.io и подготовка фирм стиля.",
+
+    "timeline_12_title": "Выпуск <br>токенов INSP",
+    "timeline_12_text": "",
+
+    "timeline_13_title": "inspeer.io –",
+    "timeline_13_text": "Один из партнеров Blockchain.Life 2017 в Санкт-Петербурге.",
+
+    "timeline_14_title": "Разработка",
+    "timeline_14_text": "Подготовка концепций интерфейса будущего сервиса. Разработка telegram бота для инвесторов.",
+
+    "timeline_15_title": "Открытие этапа pre-sale, в рамках которого проект собирает 430 000 usd.",
+    "timeline_15_text": ""
 }

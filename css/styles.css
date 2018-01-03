@@ -129,7 +129,6 @@ h2 {
 
 				nav .link a.current {
 					font-weight: 700;
-					text-transform: uppercase;
 					border-bottom: 0.167rem solid var(--main-color);
 				}
 

@@ -239,5 +239,69 @@
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "Inspeer 사전 판매가 시작됩니다. 너의 미래에 투자하고 상여에 관하여 잊지 말라 : 11 월 29 일의 앞에 25 % 및 12 월 6 일의 앞에 20 %. \n 사전 판매가 끝날 때까지 왼쪽 :",
     "advisors_person_name_8": "Andrii Zamovsky",
-    "advisors_person_position_8": ""
+    "advisors_person_position_8": "",
+    "header_nav_text_11": "제품",
+
+    "time_year_1": "봄",
+    "time_year_2": "여름",
+    "time_year_3": "가을",
+    "time_year_4": "겨울",
+
+    "month_1":  "1 월",
+    "month_2":  "2 월",
+    "month_3":  "March",
+    "month_4":  "4 월",
+    "month_5":  "5 월",
+    "month_6":  "6 월",
+    "month_7":  "7 월",
+    "month_8":  "8 월",
+    "month_9":  "9 월",
+    "month_10": "10 월",
+    "month_11": "11 월",
+    "month_12": "12 월",
+
+    "timeline_1_title": "소액금융 시장 진출 결정.",
+    "timeline_1_text": "시장 분석 및 팀 결성. 프로젝트의 법적 측면 착수.",
+
+    "timeline_2_title": "회사는 러시아 중앙은행에 소액금융기관으로 등록.",
+    "timeline_2_text": "",
+
+    "timeline_3_title": "lightfin.ru 영업 부서 성장",
+    "timeline_3_text": "",
+
+    "timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+    "timeline_4_text": "프로젝트의 영업 및 비영업 부서 통합. lightfin.ru 테스트 런칭.",
+
+    "timeline_5_title": "Android 및 iOS 앱 런칭",
+    "timeline_5_text": "",
+
+    "timeline_6_title": "수집된 데이터 계정과 관련된 크레딧 메카니즘 재런칭. ",
+    "timeline_6_text": "대출 신청자 수의 증가에 따라, 회사는 자동화 기반으로 월 ₽1,000,000의 대출을 실행하여 새로운 마일스톤 달성.",
+
+    "timeline_7_title": "P2P 대출 지향 고려",
+    "timeline_7_text": "미래 개발의 가장 적합하고 광범위한 시나리오로서 ",
+
+    "timeline_8_title": "전세계 P2P 시장 분석. ICO 준비 시작 결정. ",
+    "timeline_8_text": "P2P 시장을 대상으로 한 소프트웨어 개발 준비 시작. 파트너사 및 데이터 공급사 선정.",
+
+    "timeline_9_title": "첫 번째 세인트 피터버그 컨퍼런스",
+    "timeline_9_text": "",
+
+    "timeline_10_title": "ICOPromo에 회사 소개 및 AmbiSafe와 협업 시작.",
+    "timeline_10_text": "",
+
+    "timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+    "timeline_11_text": "inspeer.io의 첫 번째 버전 런칭 및 회사의 기업 이미지 준비.",
+
+    "timeline_12_title": "INSP 토큰 런칭.",
+    "timeline_12_text": "",
+
+    "timeline_13_title": "inspeer.io –",
+    "timeline_13_text": "가 세인트 피터버그에서 열린 2017 Blockchain.Life 컨퍼런스의 파트너 중 하나로 확정.",
+
+    "timeline_14_title": "개발",
+    "timeline_14_text": "차후 서비스 인터페이스를 위한 컨셉 개발.투자자를 위한 텔레그램 봇 개발.",
+
+    "timeline_15_title": "프로젝트의 사전 판매 런칭,$430,000 유치.",
+    "timeline_15_text": ""
 }

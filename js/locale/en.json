@@ -240,5 +240,69 @@
     "top_sub_text": "Inspeer pre-sale starts NOW! Invest in your future and don’t forget about the bonuses: 25% before November 29 and 20% before December 6.\nLeft until the end of pre-sale:",
     "advisors_person_name_8": "Andrii Zamovsky",
     "advisors_person_position_8": "The founder and chairman of Ambisafe",
-    "footer_dgtlppl": "developed by <strong><a href=\"https:\/\/t.me/dgtlppl\">Digital people</a></strong>"
+    "footer_dgtlppl": "developed by <strong><a href=\"https:\/\/t.me/dgtlppl\">Digital people</a></strong>",
+    "header_nav_text_11": "Product",
+
+    "time_year_1": "Spring",
+    "time_year_2": "Summer",
+    "time_year_3": "Autumn",
+    "time_year_4": "Winter",
+
+    "month_1": "January",
+    "month_2": "Febriary",
+    "month_3": "March",
+    "month_4": "April",
+    "month_5": "May",
+    "month_6": "June",
+    "month_7": "Jule",
+    "month_8": "August",
+    "month_9": "September",
+    "month_10": "October",
+    "month_11": "November",
+    "month_12": "December",
+
+    "timeline_1_title": "A decision is made to enter the microfinance market.",
+    "timeline_1_text": "Analyzing the market and putting together a team. Working on the legal side of the project",
+
+    "timeline_2_title": "The company is entered into the Russian Central Bank's Register of Microfinance Organizations",
+    "timeline_2_text": "",
+
+    "timeline_3_title": "The front office of lightfin.ru goes into development",
+    "timeline_3_text": "",
+
+    "timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+    "timeline_4_text": "The project's front and back office become integrated. lightfin.ru is test launched.",
+
+    "timeline_5_title": "Android and iOS apps are launched",
+    "timeline_5_text": "",
+
+    "timeline_6_title": "The credit mechanism is relaunched taking into account the collected data.",
+    "timeline_6_text": "As the number of loan applications is growing, the company reaches a new milestone by lending <strong>₽1 000 000</strong> a month on an automated basis.",
+
+    "timeline_7_title": "Turning towards P2P lending is being considered",
+    "timeline_7_text": "as the most appropriate and broad scenario for further development.",
+
+    "timeline_8_title": "Analyzing the P2P market worldwide. A decision is made to start getting ready for an ICO.",
+    "timeline_8_text": "Preparation starts to develop software for working on the P2P market. Selecting partners and data suppliers.",
+
+    "timeline_9_title": "The first St. Petersburg conference",
+    "timeline_9_text": "",
+
+    "timeline_10_title": "The company is introduced to ICOPromo and starts working with AmbiSafe.",
+    "timeline_10_text": "",
+
+    "timeline_11_title": "inspeer.io",
+    "timeline_11_text": "The first version of inspeer.io is launched and the company's corporate identity is being prepared.",
+
+    "timeline_12_title": "INSP tokens are launched.",
+    "timeline_12_text": "",
+
+    "timeline_13_title": "inspeer.io –",
+    "timeline_13_text": "becomes one of the partners of the 2017 Blockchain.Life conference in Saint Petersburg.",
+
+    "timeline_14_title": "Development",
+    "timeline_14_text": "Concepts are being developed for the upcoming service interface. A telegram bot is being developed for investors.",
+
+    "timeline_15_title": "The project launches a pre-sale, raising $430,000.",
+    "timeline_15_text": ""
 }

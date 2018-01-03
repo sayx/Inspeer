@@ -44,5 +44,69 @@
 "roadmap_text_2": "<h4>Åpner opp P2P-utlånsvirksomhet i Spania og Latvia. Utstedelse av plastikkort med en kredittgrense for regulære kunder.</h4>\n<p>\nNovember 2018:\n<br>\nProsjektrealisering i Spania baseres på erfaringer og teknisk gjennomføring av prosjektet i Estonia.<br><br>\nJanuar 2019:<br>\nEtablering av aksept- og leveransesystem, utstedelse av plastikkort til nåværende låntagere.</p>,",
 "roadmap_text_3": "Oppskalering av modellen, åpning av kontor i Storbritannia. Lansere program for gjeldsrestrukturering for regulære kunder. Oppnå EMI-lisens.\n<br><br>\nFebruar 2019:,",
 "roadmap_text_4": "<h4>Lån for små og mellomstore bedrifter, grensoverskridende betalingssystem. Venturekapital. Crowdfunding.</h4>\n<p>\nMai 2019:<br>\nUtvikling av utlånssystem for små og mellomstore bedrifter basert på milepæl 1, teknisk kapasitet. </p>\n<p>Juli 2019:<br>\nLansering av crowdfunding-plattformen og integrasjon av det nye produktet med Inspeers økosystem for databehandling.</p>,",
-"partners_main_title": "Partnere"
+"partners_main_title": "Partnere",
+"header_nav_text_11": "Produkt",
+
+"time_year_1": "Spring",
+"time_year_2": "Sommer",
+"time_year_3": "Høst",
+"time_year_4": "Winter",
+
+"month_1":  "Januar",
+"month_2":  "Februar",
+"month_3":  "Mars",
+"month_4":  "April",
+"month_5":  "May",
+"month_6":  "June",
+"month_7":  "July",
+"month_8":  "August",
+"month_9":  "September",
+"month_10": "October",
+"month_11": "November",
+"month_12": "Desember",
+
+"timeline_1_title": "Beslutning om å gå inn i mikrofinansmarkedet blir tatt.",
+"timeline_1_text": "Analyserer markedet og setter sammen et team. Jobber med de juridiske sidene av prosjektet",
+
+"timeline_2_title": "Selskapet registrert i det den russiske sentralbankens register for mikrofinansorganisasjoner.",
+"timeline_2_text": "",
+
+"timeline_3_title": "Startet opp utviklingen av kundebehandlingskontor for lightfin.ru",
+"timeline_3_text": "",
+
+"timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+"timeline_4_text": "Prosjektets front- og baksystemer blir integrert. lightfin.ru blir testlansert.",
+
+"timeline_5_title": "Android- og iOS-apper blir lansert",
+"timeline_5_text": "",
+
+"timeline_6_title": "Kredittmekanismen blir relansert under hensyntagen til innsamlede data.",
+"timeline_6_text": "Ettersom antallet lånesøknader øker, når selskapet en ny milepæl med å låne ut <strong>₽1,000,000</strong> i måneden på automatisk vis.",
+
+"timeline_7_title": "Å vende seg mot P2P-lånemarkedet vurderes",
+"timeline_7_text": "som det mest hensiktsmessige og brede scenario for videre utvikling.",
+
+"timeline_8_title": "Analyserer P2P-markedet på verdensbasis. Beslutning tas om å begynne å klargjøre for en ICO.",
+"timeline_8_text": "Setter i gang med forberedelser til å utvikle programvare for å betjene P2P-markedet. Velger ut partnere og dataleverandører.",
+
+"timeline_9_title": "Den første St. Petersburg-konferansen.",
+"timeline_9_text": "",
+
+"timeline_10_title": "Selskapet introduseres til ICOPromo og begynner å jobbe med AmbiSafe.",
+"timeline_10_text": "",
+
+"timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+"timeline_11_text": "Den første versjonen av inspeer.io blir lansert og selskapets profil og merkevare blir utarbeidet.",
+
+"timeline_12_title": "INSP-tokens blir lansert.",
+"timeline_12_text": "",
+
+"timeline_13_title": "inspeer.io –",
+"timeline_13_text": "blir en av partnerne i konferansen 2017 Blockchain.life i St. Petersburg. ",
+
+"timeline_14_title": "Utforming",
+"timeline_14_text": "Konsepter utvikles for det kommende tjenestegrensesnittet. En telegramrobot for investorer blir utviklet.",
+
+"timeline_15_title": "Prosjektet lanserer et forhåndssalg, og henter inn 430.000 $.",
+"timeline_15_text": ""
 }

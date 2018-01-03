@@ -236,5 +236,69 @@
     "advisors_person_name_7": "Alexander Rugaev",
     "top_sub_text": "Inspeer预售从现在开始！投资你的未来，不要忘记奖金：11月29日前的25％，12月6日前的20％。 \n直到预售结束：",
     "advisors_person_name_8": "Andrii Zamovsky",
-    "advisors_person_position_8": ""
+    "advisors_person_position_8": "",
+    "header_nav_text_11": "产品",
+
+    "time_year_1": "春",
+    "time_year_2": "夏",
+    "time_year_3": "秋",
+    "time_year_4": "冬",
+
+    "month_1":  "一月",
+    "month_2":  "二月",
+    "month_3":  "三月",
+    "month_4":  "四月",
+    "month_5":  "五月",
+    "month_6":  "六月",
+    "month_7":  "七月",
+    "month_8":  "八月",
+    "month_9":  "九月",
+    "month_10": "十月",
+    "month_11": "十一月",
+    "month_12": "十二月",
+
+    "timeline_1_title": "决定进入小额信贷市场。",
+    "timeline_1_text": "分析市场,组建团队。处理项目的法律事务",
+
+    "timeline_2_title": "公司进入 俄罗斯中央银行的\"小额信贷组织名册\"",
+    "timeline_2_text": "",
+
+    "timeline_3_title": "开始开发 lightfin.ru 的前台",
+    "timeline_3_text": "",
+
+    "timeline_4_title": "<a href='https://lightfin.ru' class='link-icon'>lightfin.ru</a>",
+    "timeline_4_text": "项目的前台与后台整合。lightfin.ru 试运行。",
+
+    "timeline_5_title": "推出 Android 和 iOS 应用",
+    "timeline_5_text": "",
+
+    "timeline_6_title": "在考虑了收集的数据后,推出信贷机制。",
+    "timeline_6_text": "随着贷款申请数量不断增加,公司达到了新的里程碑,每月自动贷出 <strong>1,000,000</strong> 卢布。",
+
+    "timeline_7_title": "考虑转向 P2P 借贷,认为这是最适合将来发展的应用情形,有广阔的发展空间。",
+    "timeline_7_text": "",
+
+    "timeline_8_title": "分析全球 P2P 市场。决定开始准备 ICO。",
+    "timeline_8_text": "开始准备开发用于 P2P 市场的软件。选择合作伙伴和数据供应商。",
+
+    "timeline_9_title": "首次圣彼得堡会议",
+    "timeline_9_text": "",
+
+    "timeline_10_title": "公司被引介给 ICOPromo,开始与 AmbiSafe 合作。",
+    "timeline_10_text": "",
+
+    "timeline_11_title": "<a href='https://inspeer.io' class='link-icon'>inspeer.io</a>",
+    "timeline_11_text": "推出第一版 inspeer.io,准备公司的企业形象。",
+
+    "timeline_12_title": "推出 INSP 令牌。",
+    "timeline_12_text": "",
+
+    "timeline_13_title": "inspeer.io –",
+    "timeline_13_text": "公司成为圣彼得堡 2007 年 Blockchain.Life 会议的合作伙伴。",
+
+    "timeline_14_title": "设计",
+    "timeline_14_text": "为即将推出的服务界面酝酿概念。开发面向投资人的 telegram 机器人。",
+
+    "timeline_15_title": "项目启动预售,筹资 $430,000。",
+    "timeline_15_text": ""
 }
