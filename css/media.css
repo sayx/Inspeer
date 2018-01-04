@@ -3,6 +3,13 @@
 		font-size: 15px;
 	}
 
+	#main .box {
+		max-width: 40rem;
+	}
+
+	#main .fees {
+		width: 30rem;
+	}
 }
 
 @media all and (min-width: 700) {
@@ -268,15 +275,12 @@ h2 {
 
 }
 
-@media all and  (min-width: 1400px) {
-	html, body {
-		font-size: 14px;
-		overflow-x: hidden;
-	}
-}
 @media all and  (min-width: 1000px) {
 
 
+	#main .fees {
+		width: 30rem;
+	}
 	.social a {
 		margin: 0 1rem;
 	}
@@ -482,15 +486,35 @@ h2 {
 	}
 
 		#team ul li {
-			display: table-cell;
-			width: 33.33%;
+			display: block;
+			width: 30%;
+			float: left;
 			text-align: center;
 			vertical-align: top;
+			margin: 0 0 1rem 1rem;
 		}
 
-			#team li > div {
-				margin: 1rem 4rem;
-			}
+		#team li > div {
+			margin: 0;
+		}
+
+		#team ul li.ascrou {
+			float: none;
+		}
+
+		#team ul li .box {
+			width: 16.5rem;
+		}
+
+		#team ul li .linked {
+			padding: 1rem 0 0 9rem
+		}
+
+		#team ul li .pic {
+			width: 9rem;
+			height: 9rem;
+			left: 1rem;
+		}
 
 			#team ul li.small {
 				padding-top: 4.5rem;
@@ -507,7 +531,7 @@ h2 {
 
 					#team ul li.small .box {
 						width: 15.1rem;
-						height: 15.1rem;
+						height: 17.1rem;
 					}
 
 					#team ul li.small .box .pic{
@@ -625,4 +649,84 @@ h2 {
 	#slider .btns {
 		display: block;
 	}
+}
+
+
+@media all and  (min-width: 1400px) {
+	html, body {
+		font-size: 14px;
+		overflow-x: hidden;
+	}
+
+
+
+
+        #team ul li {
+            display: table-cell;
+            width: 33.33%;
+            float: none;
+            text-align: center;
+            vertical-align: top;
+        }
+
+            #team li > div {
+                margin: 1rem 4rem;
+            }
+
+            #team ul li.small {
+                padding-top: 4.5rem;
+            }
+
+
+                #team ul li.small {
+                    padding-top: 1.5rem;
+                }
+
+                #team ul li.small > div {
+                    padding: 1.25rem 0 0 1.25rem;
+                }
+
+                    #team ul li.small .box {
+                        width: 15.1rem;
+                        height: 15.1rem;
+                    }
+
+                    #team ul li.small .box .pic{
+                        box-shadow: 0 .4rem 1rem 0 #B5B0C2;
+                    }
+                    #team ul li.small .box .pic,
+                    #team ul li.small .box .pic img {
+                        width: 10.1rem;
+                        height: 10.1rem;
+                    }
+
+                    #team ul li.small .bottom {
+                        padding-top: 6.15rem;
+                        padding-left: 1rem;
+                    }
+
+                        #team ul li.small .name {
+                            font-size: 1.167rem;
+                        }
+
+                        #team ul li.small .who {
+                            font-size: 0.833rem;
+                            font-weight: 400;
+                        }
+
+                    #team ul li.small .linked {
+                        padding-left: 11rem;
+                    }
+                        #team ul li.small .linked a {
+                            width: 1.4rem;
+                            height: 1.4rem;
+                            background-image: url(../img/linked-s.svg);
+                        }
+
+
+		#team ul li .pic {
+			width: 10rem;
+			height: 10rem;
+			left: 0;
+		}
 }
