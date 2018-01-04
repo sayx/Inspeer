@@ -313,6 +313,7 @@ h2 {
 	}
 
 	#main .wrap .box {
+		max-width: 40rem;
 		position: relative;
 	}
 
