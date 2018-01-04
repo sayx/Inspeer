@@ -276,12 +276,29 @@ h2 {
 }
 @media all and  (min-width: 1000px) {
 
+
+	.social a {
+		margin: 0 1rem;
+	}
+
 	nav {
 		padding: 2.833rem 4rem 1rem;
 	}
 
+
 	nav > ul > li {
 		display: block;
+	}
+
+	nav .link {
+		padding-top: .5rem;
+	}
+	nav > ul > li.lang {
+		margin: .3rem 0 0 3rem;
+	}
+
+	nav > ul > li.burger {
+		display: none;
 	}
 
 	nav > ul > li.subscribe {

@@ -16,6 +16,14 @@ $.ajax({
     async: true
 })
 
+$('.button_close').bind('click', function() {
+    $('#panel').hide();
+})
+
+$('.menu-trigger').bind('click', function() {
+    $('#panel').fadeIn(100);
+})
+
 function toFormat(a) {
     return ((parseInt(a * 1000) / 1000) + "").replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1,')
 }
