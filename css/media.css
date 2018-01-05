@@ -452,7 +452,7 @@ h2 {
 
 	#details .bottom > div {
 		display: table-cell;
-		padding: 0 5.3rem 0 3.58rem;
+		padding: 0 5.3rem 0 0;
 		width: 50%;
 	}
 
@@ -470,9 +470,22 @@ h2 {
 		}
 
 
+
+					#details .diagrams ul li .line .colb.w15 {
+						width: 10rem;
+					}
+
+					#details .diagrams ul li .line .colb.w10 {
+						width: 7rem;
+					}
+
+					#details .diagrams ul li .line .colb.w5 {
+						width: 3.333rem;
+					}
+
 	#partners .box > * {
 		display: table-cell;
-		padding: 0;
+		padding: 0 .5rem;
 	}
 
 	#partners h5 {
@@ -498,10 +511,6 @@ h2 {
 			margin: 0;
 		}
 
-		#team ul li.ascrou {
-			float: none;
-		}
-
 		#team ul li .box {
 			width: 16.5rem;
 		}
@@ -517,6 +526,7 @@ h2 {
 		}
 
 			#team ul li.small {
+				width: 25%;
 				padding-top: 4.5rem;
 			}
 
@@ -537,20 +547,11 @@ h2 {
 					#team ul li.small .box .pic{
 						box-shadow: 0 .4rem 1rem 0 #B5B0C2;
 					}
-					#team ul li.small .box .pic,
-					#team ul li.small .box .pic img {
-						width: 10.1rem;
-						height: 10.1rem;
-					}
 
 					#team ul li.small .bottom {
 						padding-top: 6.15rem;
 						padding-left: 1rem;
 					}
-
-						#team ul li.small .name {
-							font-size: 1.167rem;
-						}
 
 						#team ul li.small .who {
 							font-size: 0.833rem;
@@ -565,6 +566,55 @@ h2 {
 							height: 1.4rem;
 							background-image: url(../img/linked-s.svg);
 						}
+
+
+
+
+					#team .wrap {
+						margin: 0 1rem;
+						padding: 0;
+					}
+
+					#team ul li.ascrou > div {
+						padding: 2rem 0 0 2rem;
+					}
+
+					#team ul li.ascrou .t-text {
+						font-size: 1.267rem;
+						right: 2rem;
+					}
+
+					#team ul li .bottom {
+						padding-left: .8rem; 
+					}
+
+					#team ul li.ascrou,
+					#team ul li.small {
+						width: 25%;
+						float: left;
+						margin: 0;
+						padding-right: 1rem;
+						box-sizing: border-box;
+					}
+
+					#team ul li.ascrou .pic img {
+						width: 9rem;
+						height: 9rem;
+					}
+
+					#team ul li.small .box .pic,
+					#team ul li.small .box .pic img {
+						width: 9rem;
+						height: 9rem;
+					}
+
+					#team ul li.small .name {
+						font-size: 1.167rem;
+					}
+
+					#team ul li .name {
+						font-size: 1.2rem;
+					}
 
 	#smi .wrap {
 		padding: 3rem 2.4rem;
@@ -582,7 +632,7 @@ h2 {
 
 			#smi img {
 				max-width: 59rem;
-				min-height: 21rem;
+				min-height: 17rem;
 			}
 
 
@@ -658,6 +708,11 @@ h2 {
 		overflow-x: hidden;
 	}
 
+	#details .bottom > div {
+		display: table-cell;
+		padding: 0 5.3rem 0 3.58rem;
+	}
+	
         #team ul li {
             display: table-cell;
             width: 33.33%;
@@ -674,7 +729,13 @@ h2 {
                 padding-top: 4.5rem;
             }
 
+			#team ul li .box {
+				width: 18rem;
+			}
 
+			#team ul li .bottom {
+				padding-top: 5.7rem;
+			}
                 #team ul li.small {
                     padding-top: 1.5rem;
                 }
@@ -685,7 +746,7 @@ h2 {
 
                     #team ul li.small .box {
                         width: 15.1rem;
-                        height: 15.1rem;
+                        height: 17.1rem;
                     }
 
                     #team ul li.small .box .pic{
@@ -698,7 +759,7 @@ h2 {
                     }
 
                     #team ul li.small .bottom {
-                        padding-top: 6.15rem;
+                        padding-top: 6.6rem;
                         padding-left: 1rem;
                     }
 
@@ -726,4 +787,34 @@ h2 {
 			height: 10rem;
 			left: 0;
 		}
+
+
+
+
+					#team .wrap {
+						margin: 0 5%;
+						padding: 0 2.4rem;
+					}
+
+					#team ul li.ascrou > div {
+						padding: 2rem 0 0 3rem;
+					}
+
+					#team ul li.ascrou .t-text {
+						font-size: 1.267rem;
+						right: 2rem;
+					}
+
+					#team ul li .bottom {
+						padding-left: 1.75rem; 
+					}
+
+					#team ul li.ascrou .pic img {
+						width: 10rem;
+						height: 10rem;
+					}
+
+					#team ul li .name {
+						font-size: 1.66rem;
+					}
 }
