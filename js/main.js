@@ -10,7 +10,8 @@ $.ajax({
         if (parseInt(data.tokens) >= 2000000) {
             $(".target-summ").text("6,000,000 INSP");
             $(".cls .fill").data("cls-total", "6000000");
-            $(".fees .top div.total").html("<div>SOFT CUP RAISED🔥🔥🎉</div>" + $('.top div.total').html());
+            $(".fees .top .target .text").text("SECOND CAP");
+            $(".fees .top div.total").html("<div>SOFT CAP RAISED🔥🔥🎉</div>" + $('.top div.total').html());
         }
         else {
         }
