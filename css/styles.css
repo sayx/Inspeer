@@ -354,8 +354,12 @@ h2 {
 						vertical-align: bottom;
 					}
 
+					.fees .top > .total  div{
+						font-size: .9rem;
+						color: var(--light-color);
+					}
 					.fees .top > .total {
-						font-size: 1.167rem;
+						font-size: 1.05rem;
 						line-height: 1.35;
 					}
 

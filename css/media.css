@@ -790,6 +790,18 @@ h2 {
 
 
 
+	#main .fees {
+		width: 34rem;
+	}
+
+					.fees .top > .total  div{
+						font-size: 1rem;
+						color: var(--light-color);
+					}
+					.fees .top > .total {
+						font-size: 1.167rem;
+						line-height: 1.35;
+					}
 
 					#team .wrap {
 						margin: 0 5%;

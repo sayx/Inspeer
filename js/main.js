@@ -1,10 +1,19 @@
 $.ajax({
     url: "/progress",
-    //url: "progress.json",
+    /*
+    url: "progress.json",
+    */
     dataType: "json",
     success: function(data) {
         console.log(data);
         $('.sum.total').text(toFormat(data.tokens))
+        if (parseInt(data.tokens) >= 2000000) {
+            $(".target-summ").text("6,000,000 INSP");
+            $(".cls .fill").data("cls-total", "6000000");
+            $(".fees .top div.total").html("<div>SOFT CUP RAISED🔥🔥🎉</div>" + $('.top div.total').html());
+        }
+        else {
+        }
         $('.currency .USD').text(toFormat(data.payments.USD.amount))
         $('.currency .ETH').text(toFormat(data.payments.ETH.amount))
         $('.currency .BTC').text(toFormat(data.payments.BTC.amount))
