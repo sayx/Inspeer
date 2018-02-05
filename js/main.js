@@ -38,7 +38,7 @@ function toFormat(a) {
     return ((parseInt(a * 1000) / 1000) + "").replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1,')
 }
 
-var end = new Date(Date.UTC(2018, 1, 5, 14, 0));
+var end = new Date(Date.UTC(2018, 1, 19, 14, 0));
 var _second = 1000;
 var _minute = _second * 60;
 var _hour = _minute * 60;
