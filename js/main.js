@@ -7,13 +7,17 @@ $.ajax({
     success: function(data) {
         console.log(data);
         $('.sum.total').text(toFormat(data.tokens))
-        if (parseInt(data.tokens) >= 2000000) {
+        if (parseInt(data.tokens) >= 2000000 && parseInt(data.tokens) <= 6000000) {
             $(".target-summ").text("6,000,000 INSP");
             $(".cls .fill").data("cls-total", "6000000");
             $(".fees .top .target .text").text("SECOND CAP");
             $(".fees .top div.total").html("<div>SOFT CAP RAISED🔥🔥🎉</div>" + $('.top div.total').html());
         }
-        else {
+        if (parseInt(data.tokens) >= 6000000) {
+            $(".target-summ").text("12,000,000 INSP");
+            $(".cls .fill").data("cls-total", "12000000");
+            $(".fees .top .target .text").text("THIRD CAP");
+            $(".fees .top div.total").html("<div>SECOND CAP RAISED🔥🔥🎉</div>" + $('.top div.total').html());
         }
         $('.currency .USD').text(toFormat(data.payments.USD.amount))
         $('.currency .ETH').text(toFormat(data.payments.ETH.amount))
